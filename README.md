@@ -1,1 +1,1 @@
-# Voting app for Tekton Pipeline
+# Voting app for Tekton Pipeline examples
