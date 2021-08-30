@@ -25,6 +25,6 @@ spec:
               protocol: TCP
           env:
             - name: VOTING_API_SERVICE_HOST
-              value: vote-api
+              value: "0.0.0.0"
             - name: VOTING_API_SERVICE_PORT
               value: "9000"
